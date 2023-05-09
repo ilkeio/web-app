@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/94003280-75aa-4c71-9f9a-8de4dc997591/resourceGroups/ilkelimedya-web-app_group/providers/Microsoft.Web/sites/ilkelimedya-web-app",
+    "appService.deploySubpath": "."
+}
